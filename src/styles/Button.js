@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import styled from "styled-components";
 
 const COLORS = {
@@ -54,3 +55,14 @@ border: 2px solid var(--main);
 `;
 
 export default Button;
+=======
+import React from 'react'
+
+function Button() {
+  return (
+    <div>Button</div>
+  )
+}
+
+export default Button
+>>>>>>> 2838324156cc0d715350e9e64e54a43c7516d203
